@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.select" />
+          <option value="AchiveTender2.requests_html" />
+          <option value="turtle.pendown.DataFrame" />
+          <option value="list.find_one" />
+          <option value="webdriver_manager.core.driver.switch_to.default_content" />
+          <option value="webdriver_manager.core.driver.switch_to.frame" />
+          <option value="str.click" />
+          <option value="int.click" />
+          <option value="str.name" />
+          <option value="rest_project.rest_project.urls.*" />
+          <option value="my_tennis_club.my_tennis_club.views" />
+          <option value="set.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
